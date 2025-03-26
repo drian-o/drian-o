@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=dimmasyusuf&label=Visitor&color=blue&style=for-the-badge&abbreviated=true" alt="drian" />
 </div>
 
-<img align="right" src="[https://gifdb.com/images/thumbnail/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif](https://github.com/browserslist/browserslist)" width="384" alt="github-cover">
+<img align="right" src="https://i.gifer.com/6tXM.gif" width="384" alt="github-cover">
 
 - 👋 Hi there, I'm ADRIANSYAH!
 - 🌱 I’m currently learning Web Development and always eager to expand my knowledge.
