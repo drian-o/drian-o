@@ -28,7 +28,7 @@
 
 ##
 
-<h3 align="left">Tech Stacks:</h3>
+<h3 align="left">Technology Capabilities:</h3>
 
 ###
 
