@@ -8,12 +8,12 @@
 
 <img align="right" src="https://i.gifer.com/6tXM.gif" width="384" alt="github-cover">
 
-- 👋 Hi there, I'm ADRIANSYAH!
-- 🌱 I’m currently learning Web Development and always eager to expand my knowledge.
-- 💬 Ask me about anything, whether it's coding, tech, or just to have a friendly chat! :smile:
-- 📫 You can reach me at adrnsyah18@gmail.com.
-- ⚡ Fun fact: I enjoy munching on Potato Snack while coding!
-
+- 👋 Hi, I'm ADRIANSYAH!
+- 👨🏻‍🎓 I'm a Bachelor of Information Technology graduate and am very interested in the world of technology, especially developing my interests and 
+      talents
+- 💬 Ask me anything, be it about coding, technology, or just chatting! 😄
+- 📫 You can contact me at adrnsyah18@gmail.com.
+- ⚡ Interesting fact: When Coding Error I Spend Several Cups of Coffee
 ##
 
 <h3 align="left">Connect with me:</h3>
