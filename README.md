@@ -54,7 +54,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRzysCPJOGxGtLTQIclPXNuSC_13A4wzgfMw&s" height="40" alt="ci logo"  />
   <img width="8" />
    <img width="8" />
+   <img src="https://codeigniter.com/assets/icons/ci-logo.png" height="40" alt="ci logo"  />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxnCQTZMxIPfFXGgFG2Vx9Sdh9D6CZBhJTw&s" height="40" alt="ci logo"  />
+  
 
 
 </div>
