@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
     <a href="https://saweria.co/driandev" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhU5g36h1KRYleAARwDMMR4egj30UDsO_-mg&s" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Tr_Zs2XHDAyDmh5TFiba-_cO_idAoFi6OQ&s" width="52" height="40" alt="linkedin logo"  />
   </a>
   
 </div>
