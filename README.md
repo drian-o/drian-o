@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Developer</h1>
+<h1 align="center">ASLI NYA CEO NYAMAR</h1>
 
 ###
 
