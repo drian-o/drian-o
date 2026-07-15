@@ -14,13 +14,11 @@
 
 <h3 align="center">🛠️ Technology Capabilities:</h3>
 <div align="center"> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PHP-Dark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" alt="canvasjs" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/8cb06abe66ae000372a73dddd7792bac211e996c28dbb4dae44a83311ffe22b3/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476353527a797343504a4f477847744c545149636c50584e7553435f31334134777a67664d772673" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Wordpress.svg" alt="typescript" width="40" height="40"/> </a> 
+ <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,laravel,php,mysql,docker,linux,git,vscode,wordpress" />
+<br>
+
+ <img src="https://img.shields.io/badge/SEO-Specialist-00C853?style=for-the-badge&logo=google" />
+ <img src="https://img.shields.io/badge/QA-Specialist-2196F3?style=for-the-badge" />
 </div>
 
 <br>
@@ -67,17 +65,39 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=drian-o&cc=000&tc=fff&ic=fff&bc=000" style="max-width: 100%; margin-bottom: 10px;">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drian-o&theme=tokyonight" style="max-width: 100%; margin-bottom: 10px;">
-  
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drian-o&theme=tokyonight" style="max-width: 100%; width: 48%; display: inline-block;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drian-o&theme=tokyonight" style="max-width: 100%; width: 48%; display: inline-block;">
-  </div>
-  
-  <img src="https://streak-stats.demolab.com/?user=drian-o&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" alt="streak graph" style="max-width: 100%; margin-top: 10px;" />
+<h2>📊 GitHub Stats</h2>
+
+<table>
+<tr>
+
+<td width="48%" valign="top">
+
+<img src="https://github-stats-alpha.vercel.app/api?username=drian-o&cc=000&tc=fff&ic=fff&bc=000" width="100%" />
+
+<br><br>
+
+<img src="https://githubcard.com/drian-o.svg" width="100%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=drian-o&theme=tokyonight" width="100%" />
+
+</td>
+
+<td width="52%" valign="top">
+
+<img src="https://gh-stats.com/api/drian-o" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=drian-o&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="100%" />
+
+</div>
 </div>
 
 ---
