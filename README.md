@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://github.com/drian-o">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Web+%26+Developer;Seo+Specialist;QnA+Spesialist" alt="Typing SVG" style="max-width: 100%;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Web+%26+Developer;Seo+Specialist;QnA+Spesialist;Web+Scuritty" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 </div>
 
