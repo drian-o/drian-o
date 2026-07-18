@@ -70,7 +70,11 @@
 <table>
 <tr>
 
-<td width="48%" valign="top">
+<div align="center">
+
+<img src="https://gh-stats.com/api/drian-o" width="100%" />
+
+<br><br>
 
 <img src="https://github-stats-alpha.vercel.app/api?username=drian-o&cc=000&tc=fff&ic=fff&bc=000" width="100%" />
 
@@ -82,22 +86,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=drian-o&theme=tokyonight" width="100%" />
 
-</td>
-
-<td width="52%" valign="top">
-
-<img src="https://gh-stats.com/api/drian-o" width="100%" />
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=drian-o&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="100%" />
-
-</div>
 </div>
 
 ---
