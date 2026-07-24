@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://gh-stats.com/api/drian-o" width="50%" />
+<img src="https://gh-stats.com/api/drian-o" width="80%" />
 
 <br><br>
 
