@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://gh-stats.com/api/drian-o" width="100%" />
+<img src="https://gh-stats.com/api/drian-o" width="50%" />
 
 <br><br>
 
@@ -86,6 +86,9 @@
 
 <img src="https://streak-stats.demolab.com/?user=drian-o&theme=tokyonight" width="100%" />
 
+<br><br>
+
+<img src="https://res.cloudinary.com/dre2utg3m/image/upload/v1784881596/drian-o-gitfut_szpwae.png" width="50%" />
 </div>
 
 ---
