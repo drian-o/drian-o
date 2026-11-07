@@ -107,7 +107,7 @@
 
 <div align="center">
   <h2>📈 Comunity</h2>
-  <img src="https://ibb.co.com/Q3v7sWJH" style="max-width: 100%;">
+  <img src="https://gamedevph.com/sertifikat-adriansyah_18.png" style="max-width: 100%;">
 </div>
 
 
