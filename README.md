@@ -107,7 +107,7 @@
 
 <div align="center">
   <h2>📈 Comunity</h2>
-  <img src="https://imgur.com/a/K1vOTTr" style="max-width: 100%;">
+  <img src="https://ibb.co.com/Q3v7sWJH" style="max-width: 100%;">
 </div>
 
 
