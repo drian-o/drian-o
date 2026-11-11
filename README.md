@@ -62,7 +62,10 @@
   <a href="https://github.com/drian-o"><img src="https://badges.pufler.dev/commits/monthly/drian-o?style=for-the-badge&color=63a4ff" style="margin-bottom: 5px; max-width: 100%;" /></a>
 </div>  
 
----
+<div align="center">
+  <h2>📈 Comunity</h2>
+  <img src="https://gamedevph.com/sertifikat-adriansyah_18.png" style="max-width: 100%;">
+</div>
 
 <div align="center">
 <h2>📊 GitHub Stats</h2>
@@ -105,10 +108,7 @@
 
 </div>
 
-<div align="center">
-  <h2>📈 Comunity</h2>
-  <img src="https://gamedevph.com/sertifikat-adriansyah_18.png" style="max-width: 100%;">
-</div>
+
 
 
 
